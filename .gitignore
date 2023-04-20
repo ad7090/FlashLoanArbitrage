@@ -1,0 +1,6 @@
+.vscode
+artifacts
+node_modules
+cache
+test
+.env
